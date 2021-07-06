@@ -172,13 +172,13 @@ body{
 #about-us-color{
     color: gray;
 }
-.foot{
+footer{
     text-align: center;
     background-color: black;
     color: white;
     overflow: hidden;
     height: 150px;
 }
-.foot h1{
+footer h1{
     margin: 20px;
 }
